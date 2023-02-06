@@ -11,7 +11,7 @@
 -    Metric_Learning_InceptionV3.ipynb - стэк: tensorflow, cv2, PIL, InceptionV3
 -    Object_Detection_API_Resnet50.ipynb - стэк: tensorflow, io, glob, scipy, PIL, imageio, six, object_detection
 -    Recognise_Video_CNN.ipynb - стэк: tensorflow, glob, skvideo
--    Recognise_Video_CNN_LSTM_Mobilenet.ipynb - стэк: tensorflow, keras, glob, h5py
+-    Recognise_Video_CNN_LSTM_Mobilenet.ipynb - стэк: tensorflow, keras, glob, h5py, MobileNet
 -    Segmentation_Fiftyone.ipynb - стэк: fiftyone
 -    Segmentation_U_Net.ipynb - стэк: tensorflow, skimage, pycocotools
 -    Transfer_Learning_InceptionResNetv2.ipynb - стэк: tensorflow, collections, shutil, imageio, skimage, InceptionResNetV2
