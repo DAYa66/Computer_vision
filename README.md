@@ -15,3 +15,4 @@
 -    Segmentation_Fiftyone.ipynb - стэк: fiftyone
 -    Segmentation_U_Net.ipynb - стэк: tensorflow, skimage, pycocotools
 -    Transfer_Learning_InceptionResNetv2.ipynb - стэк: tensorflow, collections, shutil, imageio, skimage, InceptionResNetV2
+-    dogs_vs_cats_5_layers_net.ipynb - стэк: pytorch  задача: классифицировать датасет dogs_vs_cats с accuracy не менее 0,9 на не более чем 5-слойной сетке.
